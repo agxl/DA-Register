@@ -1,0 +1,11 @@
+# Developer: Andy Goldau
+# © 2026 DA-Register by PanelLayer, a brand of Subdomain LTD and managed on behalf of GoMaKe UG. All rights reserved.
+# 
+# DISCLAIMER: This software is provided "as is" without any warranty of any kind.
+# DA-Register is an independent software solution and is not affiliated with, 
+# endorsed by, or sponsored by JBMC Software (DirectAdmin) or its affiliates.
+
+# Protect config.php from direct web access
+<Files "config.php">
+    Require all denied
+</Files>
