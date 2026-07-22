@@ -5,9 +5,9 @@
     <i>Developed by Andy Goldau | © 2026 PanelLayer (Subdomain LTD) & GoMaKe UG</i>
   </p>
   <p>
-    📦 <b>Product Page:</b> <a href="https://da-register.panellayer.com/">da-register.panellayer.com</a> &nbsp;|&nbsp;
-    🧪 <b>Live Demo:</b> <a href="https://demo.da-register.panellayer.com/">demo.da-register.panellayer.com</a> &nbsp;|&nbsp;
-    🌐 <b>Project:</b> <a href="https://panellayer.com/">panellayer.com</a>
+    📦 <b>Product Page:</b> <a href="https://da-register.panellayer.com/">DA-Register</a> &nbsp;|&nbsp;
+    🧪 <b>Live Demo:</b> <a href="https://demo.da-register.panellayer.com/">Demo</a> &nbsp;|&nbsp;
+    🌐 <b>Project:</b> <a href="https://panellayer.com/">PanelLayer</a>
   </p>
 </div>
 
@@ -61,7 +61,7 @@ Forget spam. We support natively integrated setups for:
 
 This project is licensed under the **MIT License**.
 
-> **Developer:** Andy Goldau  
+> **Developer:** [Andy Goldau](https://andy-goldau.de/) <br>
 > **Copyright:** © 2026 DA-Register by PanelLayer, a brand of Subdomain LTD and managed on behalf of GoMaKe UG. All rights reserved.  
 > **Product Page:** [https://da-register.panellayer.com/](https://da-register.panellayer.com/)  
 > **Live Demo:** [https://demo.da-register.panellayer.com/](https://demo.da-register.panellayer.com/)  
